@@ -1,0 +1,14 @@
+image: condaforge/mambaforge
+
+pages:
+  script:
+  - conda env create -f environment.yml
+  - source activate map551
+  - jupyter-book build .
+  - mv _build/html/ public/
+  only:
+  - master
+  artifacts:
+    paths:
+    - public/
+
