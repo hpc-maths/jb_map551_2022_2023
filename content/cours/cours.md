@@ -8,7 +8,9 @@
 - Hiérarchie de modèles et complexité
 - Revue d'un ensemble de cas d'application allant de la dynamique des populations en biologie, à la combustion et à la dynamique de flammes, en passant par les milieux excitables, la mécanique des fluides, la physique solaire, etc... 
 
->  Petite classe associé au cours : [PC1 - Explosion thermique](../pc/pc01_intro.md)  
+>  Petite classe associé au cours : [PC1 - Explosion thermique](../pc/pc01_intro.md) 
+>
+>  CRTP I - rendu Dimanche 26 septembre 20h
 ```
 
 **Matériel du cours 1 :**
