@@ -52,7 +52,7 @@ Pour ce mode, il suffit de télécharger les notebooks Jupyter depuis ce site et
 
 ```{admonition} Utilisation du JupyterHub de l'école
 
-- Dans un navigateur, se rendre sur le site https://jupytercloud.idcs.polytechnique.fr/ et cliquer sur le lien `jupyter` puis sur le bouton `Sign in with CNRS/INSMI/Mathrice OpenID-Connect Provider`
+- Dans un navigateur, se rendre sur le site du [JupyterHub de l'école](https://jupytercloud.idcs.polytechnique.fr) et cliquer sur le lien `jupyter` puis sur le bouton `Sign in with CNRS/INSMI/Mathrice OpenID-Connect Provider`
 
 
 - Sélectionnez l'établissement Ecole Polytechnique Palaiseau puis utiliser vos identifiants de polytechnique pour vous connecter sur la plateforme
