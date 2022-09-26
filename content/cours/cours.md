@@ -10,7 +10,7 @@
 
 >  Petite classe associée au cours : [PC1 - The theory of thermal explosion](../pc/pc01_intro.md) 
 >
->  CRTP I - GR1 rendu jeudi 29 septembre 20h - GR2 dimanche 2 octobre 20h 
+>  CRTP I - GR1: rendu jeudi 29 septembre 20h - GR2: dimanche 2 octobre 20h 
 ```
 
 **Matériel du cours 1 :**
@@ -35,7 +35,7 @@
 
 >  Petite classe associée au cours : [PC2 - Dissipative / Conservative systems](../pc/pc02_intro.md)
 >
->  CRTP II - rendu dimanche 7 Octobre
+>  CRTP II - GR1: rendu jeudi 6 octobre 20h - GR2: dimanche 9 octobre 20h
 
 ```
 
