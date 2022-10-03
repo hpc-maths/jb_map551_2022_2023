@@ -26,7 +26,6 @@
 
 ## Cours 2 : Théorie I - Systèmes conservatifs et dissipatifs
 
-
 ```{admonition} Lundi 26 Septembre 2022
 
 - Rappels sur l'analyse mathématique des systèmes dynamiques (théorie d'existence et unicité, comportement au voisinage des points non singulier, redressement du flot) et leur classification
@@ -46,3 +45,23 @@
 - [Notes de cours manuscrites](https://moodle.polytechnique.fr/pluginfile.php/438652/mod_folder/content/0/MAP551_Massot_Series_2022_2023_Notes_de_Cours2.pdf?forcedownload=1)
 
 - [Complément bibliographique](https://moodle.polytechnique.fr/pluginfile.php/438652/mod_folder/content/0/MAP551_histoire_theorie_Cours2_Massot_2022_2023.zip?forcedownload=1)
+
+## Cours 3 : Numérique I - Notions de base, consistance, stabilité et convergence
+
+```{admonition} Lundi 3 Octobre
+
+- Approximation numérique des systèmes différentiels dissipatifs et applications
+- Schémas classiques dans le cas non raide, enjeux associés à la raideur des systèmes
+- Conditions d'ordre et notion de stabilité des schémas numériques (A-, L- et B-stabilité)
+- Application sur des systèmes différentiels issus des champs applicatifs mentionnés précédemment
+
+>  Petite classe associée au cours : [PC3 - Numerical integration of ordinary différential equations (Part I)](../pc/pc03_intro.md)
+>
+>  CRTP II - GR1: rendu jeudi 13 octobre 20h - GR2: dimanche 16 octobre 20h
+
+```
+
+**Matériel du cours 3 :**
+
+- [Notes de cours ](https://moodle.polytechnique.fr/pluginfile.php/438655/mod_folder/content/0/Notes_Cours3_MAP551.pdf?forcedownload=1)
+- [Complément bibliographique](https://moodle.polytechnique.fr/pluginfile.php/438655/mod_folder/content/0/MAP551_histoire_Cours3_Series_Massot_2022_2023.zip?forcedownload=1)

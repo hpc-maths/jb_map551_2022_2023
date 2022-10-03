@@ -13,6 +13,9 @@ parts:
   chapters:
   - file: content/cours/cours
   - file: content/cours/notebooks
+    sections:
+    - file: content/cours/n_body
+    - file: content/cours/explosion_01
 - caption: Petites Classes
   chapters:
   - file: content/pc/pc01_intro
@@ -22,3 +25,4 @@ parts:
     sections:
     - file: content/pc/pc02_pendulum
     - file: content/pc/pc02_population
+  - file: content/pc/pc03_intro
