@@ -65,3 +65,19 @@
 
 - [Notes de cours ](https://moodle.polytechnique.fr/pluginfile.php/438655/mod_folder/content/0/Notes_Cours3_MAP551.pdf?forcedownload=1)
 - [Complément bibliographique](https://moodle.polytechnique.fr/pluginfile.php/438655/mod_folder/content/0/MAP551_histoire_Cours3_Series_Massot_2022_2023.zip?forcedownload=1)
+
+## Cours 4 : Numérique II - Schémas d'ordre élévé - Runge-Kutta
+
+
+```{admonition} Lundi 10 Octobre
+
+- Méthodes de Runge-Kutta 
+- Conditions d'ordre et stabilité aux perturbations 
+- Méthodes explicites et implicites 
+- Stabilité (A-, L- et B-stabilité) 
+
+>  Petite classe associée au cours PC4 - Applications numérique - notion de raideur, pas de temps adaptatif  
+>
+>  CRTP III - PC4 - rendu Dimanche 17 Octobre  
+
+```

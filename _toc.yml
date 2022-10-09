@@ -16,6 +16,9 @@ parts:
     sections:
     - file: content/cours/n_body
     - file: content/cours/explosion_01
+    - file: content/cours/curtiss_rk
+    - file: content/cours/explosion_02
+    - file: content/cours/adaptative_step_size
 - caption: Petites Classes
   chapters:
   - file: content/pc/pc01_intro
