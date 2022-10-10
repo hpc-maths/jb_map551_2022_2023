@@ -56,8 +56,6 @@
 - Application sur des systèmes différentiels issus des champs applicatifs mentionnés précédemment
 
 >  Petite classe associée au cours : [PC3 - Numerical integration of ordinary différential equations (Part I)](../pc/pc03_intro.md)
->
->  CRTP II - GR1: rendu jeudi 13 octobre 20h - GR2: dimanche 16 octobre 20h
 
 ```
 
@@ -68,7 +66,6 @@
 
 ## Cours 4 : Numérique II - Schémas d'ordre élévé - Runge-Kutta
 
-
 ```{admonition} Lundi 10 Octobre
 
 - Méthodes de Runge-Kutta 
@@ -76,8 +73,8 @@
 - Méthodes explicites et implicites 
 - Stabilité (A-, L- et B-stabilité) 
 
->  Petite classe associée au cours PC4 - Applications numérique - notion de raideur, pas de temps adaptatif  
+>  Petite classe associée au cours [PC4 - Numerical integration of ordinary différential equations (Part II)](https://moodle.polytechnique.fr/pluginfile.php/438658/mod_folder/content/0/MAP551_PC4_2022_2023.pdf?forcedownload=1)  
 >
->  CRTP III - PC4 - rendu Dimanche 17 Octobre  
+>  CRTP III (PC3 & PC4) - GR1: rendu jeudi 20 octobre 20h - GR2: dimanche 23 octobre 20h
 
 ```
